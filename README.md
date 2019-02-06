@@ -1,6 +1,6 @@
 # @wkovacs64/eslint-config-ts
 
-This is my base personal ESLint configuration for TypeScript projects.
+This is my personal ESLint configuration for TypeScript projects.
 
 ### Install
 
